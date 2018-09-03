@@ -14,5 +14,4 @@ def http_get(url):
             break
     s.close()
 
-http_get('http://roboed.xyz/')
-
+http_get('http://google.com/')
